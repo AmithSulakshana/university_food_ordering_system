@@ -1,0 +1,33 @@
+[
+
+  {
+    "id":1,
+    "caption":"rice and curry",
+    "price":"120",
+    "image":"images/rice.jpg"
+
+  },
+
+  {
+    "id":2,
+    "caption":"rice",
+    "price":"122",
+    "image":"images/rice.jpg"
+
+  },
+
+  {
+    "id":3,
+    "caption":"rices and curry",
+    "price":"125",
+    "image":"images/rice.jpg"
+
+  }
+
+
+
+
+
+
+
+]
